@@ -6,7 +6,7 @@ A big data pipeline project that processes IPL ball-by-ball data (2008-2022) usi
 
 For a detailed breakdown of every command, every error faced, and how the project works end to end, refer to the full project summary document:
 
-[IPL Project Summary (pdf)](./IPL%20_Project_summary.pdf)
+[IPL Project Summary (pdf)](./IPL_Project_summary.pdf)
 
 ## Tech Stack
 
@@ -220,7 +220,3 @@ venv\Scripts\activate
 # run the app
 streamlit run app/app.py
 ```
-
-## Author
-
-Nandhana — Big Data Project 2026
