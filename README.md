@@ -6,7 +6,7 @@ A big data pipeline project that processes IPL ball-by-ball data (2008-2022) usi
 
 For a detailed breakdown of every command, every error faced, and how the project works end to end, refer to the full project summary document:
 
-[IPL Project Summary (docx)](./IPL_Project_Summary.docx)
+[IPL Project Summary (pdf)](./IPL%20_Project_summary.pdf)
 
 ## Tech Stack
 
