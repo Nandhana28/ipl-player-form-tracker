@@ -1,0 +1,5 @@
+data/
+hadoop_output/
+venv/
+__pycache__/
+*.pyc
