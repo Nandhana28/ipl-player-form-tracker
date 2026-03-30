@@ -1,5 +1,5 @@
 # IPL Player Form Tracker
-
+ 
 A big data pipeline project that processes IPL ball-by-ball data (2008-2022) using Apache Hadoop MapReduce inside Docker, and visualizes results through an interactive Streamlit web app.
 
 ## Project Summary
